@@ -4,9 +4,9 @@
     android:id="@+id/main_content"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/cardview_dark_background"
+    android:background="@android:color/background_dark"
     android:fitsSystemWindows="true"
-    tools:context="com.">
+    tools:context=".ImageTabsActivity">
 
 
 
