@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/hemant3370/Image-Gallery.svg)](https://jitpack.io/#hemant3370/Image-Gallery)
 # Image-Gallery
 Android Image Gallery Library.
 
