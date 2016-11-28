@@ -2,6 +2,7 @@
 Android Image Gallery Library.
 
 You can provide an array of image URLs and have a viewpager based activity for viewing all the images.
+It uses Glide for image loading and caching.
 ## Demo 
 <img src="/Screenshot_2016-11-28-16-05-23.jpg?raw=true" width="200"> -------> <img src="/Screenshot_2016-11-28-16-05-34.jpg?raw=true" width="200">
 
