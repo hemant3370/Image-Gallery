@@ -19,7 +19,7 @@ repositories {
 In your app module's build.gradle file
 ```
 dependencies {
-    compile 'com.github.hemant3370:Image-Gallery:-SNAPSHOT'
+    compile 'com.github.hemant3370:Image-Gallery:0.0.1'
 }
 ```
 In your image grid's click listener initiate the gallery Activity like this:
