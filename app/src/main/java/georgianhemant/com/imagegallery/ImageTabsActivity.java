@@ -32,6 +32,10 @@ public class ImageTabsActivity extends AppCompatActivity {
     private ViewPager mViewPager;
 
 
+    @Override
+    public void onBackPressed() {
+        ImageTabsActivity.this.supportFinishAfterTransition();
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
